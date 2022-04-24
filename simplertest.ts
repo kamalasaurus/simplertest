@@ -1,5 +1,5 @@
 export default function simplertest(suite, clearDOM = true) {
-  suite.forEach(([slug, statement, assertion], i) => {
+  suite.forEach(([slug, statement, assertion], i: number) => {
     try {
       const s = statement()
       const a = assertion(s)
