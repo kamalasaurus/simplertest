@@ -1,4 +1,4 @@
-# simpletest
+# simplertest
 
 A super simple test-runner for in-browser personal projects.  Primarily
 for my own usage so I don't have to keep shunting this file around.

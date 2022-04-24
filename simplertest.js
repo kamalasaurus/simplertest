@@ -1,4 +1,4 @@
-export default function simpletest(suite, clearDOM = true) {
+export default function simplertest(suite, clearDOM = true) {
   suite.forEach(([slug, statement, assertion], i) => {
     try {
       const s = statement()
