@@ -1,6 +1,6 @@
 {
   "name": "simplertest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a super simple test runner (in-browser)",
   "main": "simplertest.js",
   "repository": {
