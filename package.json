@@ -1,0 +1,20 @@
+{
+  "name": "simpletest",
+  "version": "0.0.1",
+  "description": "a super simple test runner (in-browser)",
+  "main": "simpletest.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalasaurus/simpletest.git"
+  },
+  "keywords": [
+    "browser",
+    "testing"
+  ],
+  "author": "kamalasaurus@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamalasaurus/simpletest/issues"
+  },
+  "homepage": "https://github.com/kamalasaurus/simpletest#readme"
+}
