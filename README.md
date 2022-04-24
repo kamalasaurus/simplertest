@@ -5,7 +5,7 @@ for my own usage so I don't have to keep shunting this file around.
 
 ### usage
 
-1. Import from jsDelivr, or pull down from github/npm (whatever
+1. Import from jsDelivr/deno.land, or pull down from github/npm (whatever
    floats your boat) and into the html with the javascript you want to test.
 2. Look at `test.html` for an example of how to run it
 3. Run a server in the root of your directory (i.e. `static-server`)
